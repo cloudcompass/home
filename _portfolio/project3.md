@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Online Course
+subtitle: Protocols and frameworks for building self-sovereign identity solutions.
+image: assets/img/portfolio/lfs2-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Online Course
+  subtitle: "Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa"
+  thumbnail: assets/img/portfolio/lfs3-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+In 2019 we created [this edX course](https://www.edx.org/course/identity-in-hyperledger-aries-indy-and-ursa) for the Linux Foundation, refreshing it in 2021. For many (over 8,000 and counting!), this course has been their business-level introduction to self-sovereign identity and Hyperledger Aries.
 
-{:.list-inline}
+<!-- {:.list-inline}
 - Date: January 2017
 - Client: Finish
-- Category: Identity
+- Category: Identity -->
 

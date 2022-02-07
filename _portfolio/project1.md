@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Hyperledger Aries
+subtitle: A shared, reusable, interoperable set of protocols and open source implementations for creating, transmitting and storing verifiable digital credentials.
+image: assets/img/portfolio/aries-full.jpg
+alt:
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Hyperledger Aries
+  subtitle: Open Source Frameworks for exchanging verifiable credentials.
+  thumbnail: assets/img/portfolio/aries-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Hyperledger Aries is a shared, reusable, interoperable set of protocols and open source implementations for creating, transmitting and storing verifiable digital credentials. Cloud Compass Computing was an organizer of the Hyperledger conferences at which Aries was first imagined (the series of "Connect-a-thon" interoperability conferences in Utah),
+and has been a contributor and maintainer of the [Aries RFCs](https://github.com/hyperledger/aries-rfcs) -- the protocols that enable Aries interoperability.
 
-{:.list-inline}
+<!-- {:.list-inline}
 - Date: January 2017
-- Client: Threads
-- Category: Illustration
-
+- Client: Explore
+- Category: Graphic Design -->
